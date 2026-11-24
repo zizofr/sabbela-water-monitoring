@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rootLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/primary"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="72dp"
+        android:layout_height="72dp"
+        android:importantForAccessibility="no"
+        android:src="@drawable/ic_drop" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:fontFamily="sans-serif-light"
+        android:letterSpacing="0.1"
+        android:text="sabbela"
+        android:textColor="@color/white"
+        android:textSize="38sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:text="Smart water monitoring"
+        android:textColor="#B3FFFFFF"
+        android:textSize="14sp" />
+
+    <ProgressBar
+        android:layout_width="28dp"
+        android:layout_height="28dp"
+        android:layout_marginTop="48dp"
+        android:indeterminate="true"
+        android:indeterminateTint="@color/accent" />
+</LinearLayout>

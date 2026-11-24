@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Sabbela</string>
+    <string name="app_tagline">Smart Water Monitoring</string>
+    <string name="login_title">Welcome Back</string>
+    <string name="login_subtitle">Sign in to your Sabbela account</string>
+    <string name="hint_email">Email Address</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Sign In</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="btn_contact">Contact Us</string>
+    <string name="contact_title">Contact Us</string>
+    <string name="contact_subtitle">Reach out to our team for setup and support</string>
+    <string name="home_greeting">Good morning</string>
+    <string name="this_month">This Month</string>
+    <string name="vs_last_month">vs. last month</string>
+    <string name="tab_sensors">Sensors</string>
+    <string name="tab_history">History</string>
+    <string name="sensor_open">OPEN</string>
+    <string name="sensor_closed">CLOSED</string>
+    <string name="open_since">Open for</string>
+    <string name="open_24h">Last 24h</string>
+    <string name="unit_liters">L</string>
+    <string name="history_title">Monthly Consumption</string>
+    <string name="logout">Logout</string>
+    <string name="view_sensors">View Sensors →</string>
+</resources>
