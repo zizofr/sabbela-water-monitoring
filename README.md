@@ -38,9 +38,9 @@ Flow sensors ──▶ ESP32 ──▶ Firebase Realtime Database ──▶ Andr
 
 ### Admin side
 
-| Home | Create user | Create sensor | Remove sensor |
-|---|---|---|---|
-| <img src="images/home_admin.jpeg" width="200"> | <img src="images/user_creation.jpeg" width="200"> | <img src="images/sensor_creation.jpeg" width="200"> | <img src="images/sensor_removal.jpeg" width="200"> |
+| Home | Create user | Create sensor | Remove sensor | Deletion request |
+|---|---|---|---|---|
+| <img src="images/home_admin.jpeg" width="160"> | <img src="images/user_creation.jpeg" width="160"> | <img src="images/sensor_creation.jpeg" width="160"> | <img src="images/sensor_removal.jpeg" width="160"> | <img src="images/deletion_request.jpeg" width="160"> |
 
 ## What is in this repo
 
